@@ -24,5 +24,5 @@ This repository is a **growing collection of Python games**, designed to enterta
 - **Educational** – see Python concepts applied in real games.
 - **Aesthetic variety** – colorful, playful, sometimes sparkly visuals.
 
-## 📂 Repository Structure
+
 
