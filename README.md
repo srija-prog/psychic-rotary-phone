@@ -1,7 +1,5 @@
 
-# 🎮 Daily Python Games
-
-Welcome to the **Daily Python Games** repository! Here, every day brings a **new Python game** — a small adventure, a challenge, and an opportunity to learn and play.  
+# 🎮  Python Games 
 
 This repository is a **growing collection of Python games**, designed to entertain, inspire, and teach. Whether you are a beginner or an experienced coder, each game provides an opportunity to explore Python, game logic, and interactive design.
 
