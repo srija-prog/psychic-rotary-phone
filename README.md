@@ -7,7 +7,7 @@ This repository is a **growing collection of Python games**, designed to enterta
 
 ## 🌟 About
 
-- A new game is added **every day**.
+
 - Games are written entirely in **Python**, mostly using **Pygame**.
 - Each game is **playable immediately** and easy to run.
 - Games range from **classic puzzles and arcade challenges** to **AI-powered opponents and experimental concepts**.
@@ -17,7 +17,7 @@ This repository is a **growing collection of Python games**, designed to enterta
 
 ## 🛠 Features
 
-- **Daily updates** – fresh game every day.
+
 - **Interactive gameplay** – engage with logic, graphics, and AI.
 - **Educational** – see Python concepts applied in real games.
 - **Aesthetic variety** – colorful, playful, sometimes sparkly visuals.
